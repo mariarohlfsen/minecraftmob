@@ -1,8 +1,8 @@
-# Will the AI detect the Mob? 
+# Will the AI detect the object? 
 
-This is a Minecraft mob detector. How it works is you download an image from the internet, or you can take a picture/screenshot in-game of a mob. Then, you use the terminal to input the name of the file of the image, and it will output the name of the animal. The point of this is just a fun way to see if the ai will pick up on the animal: is it realistic enough? 
+This is a Minecraft object detector. How it works is you download an image from the internet, or you can take a picture/screenshot in-game of a object. Then, you use the terminal to input the name of the file of the image, and it will output the name of what it thinks is the object. The point of this is just a fun way to see if the ai will pick up on the object: is it realistic enough? 
 
-This is just a fun guessing game for the ai to see if it will pick up on different mobs in minecraft. Most times, it would be way off. But, with the images provided in the file, if you input them into the terminal, they will be correct or close to correct.
+This is just a fun guessing game for the ai to see if it will pick up on different objects in minecraft. Most times, it would be way off. But, with the images provided in the file, if you input them into the terminal, they will be correct or close to correct.
 
 How can you run the image that you want to input? Go to the github link and the youtube tutorial below and follow those directions, then go to 18:05 in the youtube video and type that in, just switch out the image he used for the name of the image you used. 
 
